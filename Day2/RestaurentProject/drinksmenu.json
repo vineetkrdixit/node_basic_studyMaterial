@@ -1,0 +1,29 @@
+{
+  "drinksMenu": [
+    {
+      "rType": "Mocktail",
+      "rDish": "Mango Mule",
+      "rPrice": 120
+    },
+    {
+      "rType": "Cocktail",
+      "rDish": "Californication",
+      "rPrice": 180
+    },
+    {
+      "rType": "Cocktail",
+      "rDish": "Mojito",
+      "rPrice": 130
+    },
+    {
+      "rType": "Mocktail",
+      "rDish": "Shirley Ginger",
+      "rPrice": 140
+    },
+    {
+      "rType": "Cocktail",
+      "rDish": "Margarita",
+      "rPrice": 120
+    }
+  ]
+}

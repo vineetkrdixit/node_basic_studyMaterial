@@ -1,0 +1,29 @@
+{
+  "foodmenu": [
+    {
+      "rType": "Veg",
+      "rDish": "Dal Makhni",
+      "rPrice": 200
+    },
+    {
+      "rType": "NonVeg",
+      "rDish": "Chicken Korma",
+      "rPrice": 380
+    },
+    {
+      "rType": "NonVeg",
+      "rDish": "Mutton Biryani",
+      "rPrice": 300
+    },
+    {
+      "rType": "Veg",
+      "rDish": "Palak Paneer",
+      "rPrice": 250
+    },
+    {
+      "rType": "Veg",
+      "rDish": "Kadhai Paneer",
+      "rPrice": 250
+    }
+  ]
+}
