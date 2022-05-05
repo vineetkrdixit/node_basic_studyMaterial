@@ -45,7 +45,7 @@ http
     } else if (req.method === "GET") {
       let search = url.parse(req.url, true).path;
       console.log(search);
-      let trim = search.slice(1);
+      let trim = search.split("%20").join(" ").slice(1);
       console.log(trim);
 
       file.readFile("drinksmenu.json", "utf-8", (err, data) => {
